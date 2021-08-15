@@ -40,7 +40,7 @@ export default function Home() {
           <ViewGridIcon className="h-10 w-10 p-2 rounded-full hover:bg-gray-100 cursor-pointer" />
           <Avatar
             url={
-              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtNSJxQJyvX2KiB_FNHYG3qY5Z-ULlv04m6O2XOkUFXDZ0W6a6fESGKABTAWj_0rlzHc&usqp=CAU"
+              "https://icon-library.com/images/instagram-icon-transparent/instagram-icon-transparent-29.jpg"
             }
           />
         </div>

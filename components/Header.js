@@ -30,6 +30,7 @@ function Header() {
             ref={searchInputRef}
             className="flex-grow w-full focus:outline-none"
             type="text"
+            defaultValue={router.query.term}
           />
           <XIcon
             className="h-7 sm:mr-3 text-gray-500 cursor-pointer transition duration-100 transform hover:scale-125"
@@ -43,7 +44,7 @@ function Header() {
         </form>
         <Avatar
           className="ml-auto"
-          url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLtNSJxQJyvX2KiB_FNHYG3qY5Z-ULlv04m6O2XOkUFXDZ0W6a6fESGKABTAWj_0rlzHc&usqp=CAU"
+          url="https://icon-library.com/images/instagram-icon-transparent/instagram-icon-transparent-29.jpg"
         />
       </div>
       <HeaderOptions />

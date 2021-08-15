@@ -7,8 +7,6 @@ import Response from "../response";
 
 function Search({ results }) {
   const router = useRouter();
-
-  console.log(results);
   return (
     <div>
       <Head>
